@@ -1,0 +1,14 @@
+/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/bin/Debug/net10.0/Lab1.2.1
+/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/bin/Debug/net10.0/Lab1.2.1.deps.json
+/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/bin/Debug/net10.0/Lab1.2.1.runtimeconfig.json
+/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/bin/Debug/net10.0/Lab1.2.1.dll
+/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/bin/Debug/net10.0/Lab1.2.1.pdb
+/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/obj/Debug/net10.0/Lab1.2.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/obj/Debug/net10.0/Lab1.2.1.AssemblyInfoInputs.cache
+/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/obj/Debug/net10.0/Lab1.2.1.AssemblyInfo.cs
+/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/obj/Debug/net10.0/Lab1.2.1.csproj.CoreCompileInputs.cache
+/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/obj/Debug/net10.0/Lab1.2.1.dll
+/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/obj/Debug/net10.0/refint/Lab1.2.1.dll
+/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/obj/Debug/net10.0/Lab1.2.1.pdb
+/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/obj/Debug/net10.0/Lab1.2.1.genruntimeconfig.cache
+/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/obj/Debug/net10.0/ref/Lab1.2.1.dll
