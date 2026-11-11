@@ -20,9 +20,9 @@ foreach (string car in cars)
 }*/
 
 //get index of an element in the array
-/*int index = Array.IndexOf(cars, "Ford");
-Console.WriteLine($"Index of Ford: {index}");*/
+int index = Array.IndexOf(cars, "Ford");
+Console.WriteLine($"Index of Ford: {index}");
 
 //Accessing the array element using indedx
-Console.WriteLine($"Element at index 2: {cars[2]}");
+//Console.WriteLine($"Element at index 2: {cars[2]}");
 
