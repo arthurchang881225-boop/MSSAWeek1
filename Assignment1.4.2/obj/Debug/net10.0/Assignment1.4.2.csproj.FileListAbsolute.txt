@@ -1,0 +1,15 @@
+/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.4.2/bin/Debug/net10.0/Assignment1.4.2
+/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.4.2/bin/Debug/net10.0/Assignment1.4.2.deps.json
+/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.4.2/bin/Debug/net10.0/Assignment1.4.2.runtimeconfig.json
+/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.4.2/bin/Debug/net10.0/Assignment1.4.2.dll
+/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.4.2/bin/Debug/net10.0/Assignment1.4.2.pdb
+/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.4.2/obj/Debug/net10.0/Assignment1.4.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.4.2/obj/Debug/net10.0/Assignment1.4.2.AssemblyInfoInputs.cache
+/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.4.2/obj/Debug/net10.0/Assignment1.4.2.AssemblyInfo.cs
+/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.4.2/obj/Debug/net10.0/Assignment1.4.2.csproj.CoreCompileInputs.cache
+/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.4.2/obj/Debug/net10.0/Assignment1.4.2.sourcelink.json
+/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.4.2/obj/Debug/net10.0/Assignment1.4.2.dll
+/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.4.2/obj/Debug/net10.0/refint/Assignment1.4.2.dll
+/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.4.2/obj/Debug/net10.0/Assignment1.4.2.pdb
+/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.4.2/obj/Debug/net10.0/Assignment1.4.2.genruntimeconfig.cache
+/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.4.2/obj/Debug/net10.0/ref/Assignment1.4.2.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/Lab1.2.1.csproj": {}
+    "/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.2.1/Lab1.2.1.csproj": {}
   },
   "projects": {
-    "/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/Lab1.2.1.csproj": {
+    "/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.2.1/Lab1.2.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/Lab1.2.1.csproj",
+        "projectUniqueName": "/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.2.1/Lab1.2.1.csproj",
         "projectName": "Lab1.2.1",
-        "projectPath": "/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/Lab1.2.1.csproj",
+        "projectPath": "/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.2.1/Lab1.2.1.csproj",
         "packagesPath": "/Users/arthur/.nuget/packages/",
-        "outputPath": "/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.1/obj/",
+        "outputPath": "/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.2.1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/arthur/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.2/Lab1.2.2.csproj",
+      "projectUniqueName": "/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.2.2/Lab1.2.2.csproj",
       "projectName": "Lab1.2.2",
-      "projectPath": "/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.2/Lab1.2.2.csproj",
+      "projectPath": "/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.2.2/Lab1.2.2.csproj",
       "packagesPath": "/Users/arthur/.nuget/packages/",
-      "outputPath": "/Users/arthur/Desktop/Coding/MSSA/Labs/1.2/Lab1.2.2/obj/",
+      "outputPath": "/Users/arthur/Desktop/Coding/MSSA/MSSAWeek1/Assignment1.2.2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/arthur/.nuget/NuGet/NuGet.Config"
